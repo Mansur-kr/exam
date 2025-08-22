@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+     font-family: "Quantico", sans-serif;
+}
+body{
+    background-color: black;
+}
+.container{
+   width: 1273px;
+
+}
+.nav{
+    position: relative;
+    left: 130px;
+    width: 1273px;
+    height: 70px;
+   
+    background-color: #272C3D;
+    
+
+}
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav ul li{
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 15px;
+    
+}
+.li{
+    position: relative;
+    left: 25.46px;
+}
+.li2{
+    position: relative;
+    right: 220px;
+}
+.li3{
+    position: relative;
+    right: 470px;
+}
+.li4{
+    position: relative;
+    right: 720px;
+}
+.nav ul li:hover{
+    color: #FF9C28;
+    transition: .5s;
+}
+.text{
+    width: 241.8699951171875px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #404864;
+    border: none;
+    position: relative;
+    left: 700px;
+    bottom: 12px;
+    
+
+}
+.select{
+    width: 165.49000549316406px;
+    height: 30px;
+    background-color: #00000080;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    position: relative;
+    left: 800px;
+    bottom: 10px;
+
+}
+.bg{
+    position: relative;
+    left: 130px;
+}
+
+.MAJOR{
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    top: 21px;
+    left: 638px;
+}
+.facebook{
+    position: relative;
+    left: 243px;
+    top: 68px;
+}
+.section2{
+   width: 1189px;
+   height: 928px ;
+   
+   background-color: #1B1E27;
+   position: relative;
+   left: 150px;
+   top: 100px;
+}
+.pgl{
+    color:white;
+    font-size: 24px ;
+    font-weight: 400;
+    position: relative;
+    left: 245px;
+    top: 61px;
+}
+.win{
+    position: relative;
+    left: 245px;
+    top: 80px;
+}
+.p{
+    color:#BFBFBF;
+    position: relative;
+    left: 662px;
+    bottom: 160px;
+}
+.stage{
+    color: white;
+    font-size: 24px;
+    font-weight: 400 ;
+    position: relative;
+    left: 246px;
+}
+.team{
+    position: relative;
+    left: 246px;
+    top: 30px;
+}
+.Legends{
+    color: #BFBFBF;
+    position: relative;
+    left: 662px;
+    bottom: 210px;
+}
+.footer{
+    width: 1273px;
+    height: 70px;
+    background-color: #272C3D;
+    
+    position: relative;
+    top: 99px;
+    left: 130px ;
+
+}
+
+    
+
+.BLOG{
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: 674px;
+    bottom: 25px;
+
+}
+.BLOG:hover{
+    color: #FF9C28;
+}
+.UPDATES{
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: 765px;
+    bottom: 58px;
+}
+.UPDATES:hover{
+    color: #FF9C28;
+}
+.RESOURCES{
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: 902px;
+    bottom: 93px;
+}
+.RESOURCES:hover{
+    color: #FF9C28;
+}
+.COMMUNITY{
+    color: white;
+     font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: 1075px;
+    bottom: 127px;
+}
+.COMMUNITY:hover{
+    color:#FF9C28;
+}
+.cs{
+    position: relative;
+    left: 47px;
+    top: 12px;
+}
